@@ -1,0 +1,1 @@
+2,vinh,Laptop,LAP001,Laptop A,1000.0

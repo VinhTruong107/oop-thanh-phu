@@ -1,0 +1,3 @@
+khachhang3,ngoctrinh
+khachhang1,thanhphu
+khachhang2,lan phuong,DienThoai,1234,dv,324.0
